@@ -1,6 +1,7 @@
 
 ## expression:表达式
 
+subexpression:子表达式
 ```python
 >>>1 # this is expression
 1
@@ -97,7 +98,11 @@ floordivision：地板除
 mod：余数
 
 
+conditional expression
 
+```python
+<consequent(结果)> if <predicate> else <alternative>`
+```
 
 pure functions
 pure return a value by your input value.
@@ -108,3 +113,10 @@ print will display value your input, and print function has non return value, pr
 
 Nested function:嵌套函数
 
+evaluate:评估
+
+syntax:语法
+
+lambda expression is diffent between def statement，lambda has no function name
+
+in fact,lambda is 

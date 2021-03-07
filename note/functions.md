@@ -29,3 +29,10 @@ so, just because function can as arguments also as return value, we call this hi
 ### Lambda expression
 
 
+### Return statument
+
+### Why we need control statument
+
+called expression 会先计算，然后再调用，所以还是需要 control statument
+
+ 
