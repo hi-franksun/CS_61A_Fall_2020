@@ -120,3 +120,6 @@ syntax:语法
 lambda expression is diffent between def statement，lambda has no function name
 
 in fact,lambda is 
+
+
+enviroment diagram:环境图
