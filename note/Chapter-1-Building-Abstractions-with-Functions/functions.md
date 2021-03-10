@@ -28,4 +28,21 @@ so, just because function can as arguments also as return value, we call this hi
 
 ### Lambda expression
 
+lambda syntax
+```python
+square = lambda x: x * x # this is expression evaluates to a function  # important: has no return keyword
+       # a function
+               # with formal parameter x
+                   # that returns the value of "x * x"
+                                              # return must be s single expression
 
+```
+lambda expressions versus def statements
+
+the most diffence is function name
+```python
+square = lambda x: x * x # <function <lambda> at 0x000001E6B5BBD558>
+
+def square(x): # <function square at 0x000001E6B5BBD438>
+    return lambda
+```
